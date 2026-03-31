@@ -48,11 +48,29 @@
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Activity Dashboard
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🧊 3D Contribution</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true"/>
+  <img src="https://github.com/8ernity/8ernity/blob/main/github-metrics.svg" />
 </p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,14 +78,6 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📅 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/8ernity/8ernity/blob/main/github-metrics.svg" />
 </p>
 
 ---
