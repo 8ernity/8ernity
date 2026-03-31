@@ -67,7 +67,7 @@
 ## 📅 3D Contribution Calendar
 
 <p align="center">
-<img src="https://github.com/8ernity/8ernity/blob/main/github-metrics.svg" />
+  <img src="https://github.com/8ernity/8ernity/blob/main/github-metrics.svg" />
 </p>
 
 ---
