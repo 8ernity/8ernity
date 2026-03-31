@@ -22,4 +22,4 @@ jobs:
           config_display: large
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
