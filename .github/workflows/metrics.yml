@@ -1,0 +1,25 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          username: 8ernity
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: ""
+          config_display: large
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
