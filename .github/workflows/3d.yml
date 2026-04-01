@@ -1,0 +1,23 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        with:
+          github_user_name: 8ernity
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "update 3d graph" || echo "no changes"
+          git push
