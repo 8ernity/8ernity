@@ -82,6 +82,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
 ## 🚀 Featured Projects
 
 * 🔹 WhatsApp Clone (Next.js + Tailwind)
