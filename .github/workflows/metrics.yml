@@ -15,11 +15,31 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          username: 8ernity
+          user: 8ernity
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # 🎨 BASE SETTINGS
           base: ""
           config_display: large
+          config_theme: dark
+          config_padding: 10
 
+          # 🧊 3D ISOCALENDAR
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # 📊 ACTIVITY (RADAR GRAPH)
+          plugin_activity: yes
+          plugin_activity_days: 30
+          plugin_activity_filter: all
+
+          # 🧠 LANGUAGES (PIE CHART)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+
+          # 🔥 STATS
+          plugin_stars: yes
+          plugin_followup: yes
+          plugin_repositories: yes
