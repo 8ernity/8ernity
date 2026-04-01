@@ -5,14 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          github_user_name: 8ernity
 
       - name: Commit & Push
         run: |
@@ -21,3 +24,5 @@ jobs:
           git add .
           git commit -m "update 3d graph" || echo "no changes"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
