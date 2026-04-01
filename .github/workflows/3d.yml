@@ -13,10 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # ✅ Step 1: Checkout repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # ✅ Step 2: Generate 3D graph
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
 
+      # ✅ Step 3: Commit & push
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
