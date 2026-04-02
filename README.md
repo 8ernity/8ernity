@@ -48,29 +48,11 @@
 
 ---
 
-## 🔥 Streak + Anime
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-
-<td width="50%" align="center">
-
-### 🎴 Anime Vibes
-
-<img src="https://images.alphacoders.com/133/1337527.png" width="100%" />
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="480"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/3ZQ3Z4R.jpeg" width="480"/>
+</p>
 
 ---
 
