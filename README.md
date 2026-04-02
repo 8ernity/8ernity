@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=8ernity&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=8ernity&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&text_color=00ffff" height="180"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=8ernity&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -54,7 +54,7 @@
 <tr>
 
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa" />
 </td>
 
 <td align="center">
