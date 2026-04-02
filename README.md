@@ -48,25 +48,23 @@
 
 ---
 
-## 📈 Activity Dashboard
+## 🔥 Streak + Anime
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🧊 3D Contribution</h3>
-<p align="center">
-  <img src="https://github.com/8ernity/8ernity/blob/main/github-metrics.svg" />
-</p>
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" />
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" />
-</p>
+### 🎴 Anime Vibes
+
+<img src="https://wallpaperaccess.com/full/2471303.jpg" width="100%" />
 
 </td>
 </tr>
