@@ -48,7 +48,7 @@
 
 ---
 
-## 🔥 Streak + Anime
+## 🔥 Streak stats
 
 <table align="center">
 <tr>
