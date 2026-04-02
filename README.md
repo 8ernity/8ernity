@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="480"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/3ZQ3Z4R.jpeg" width="480"/>
+  <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/ezgif.gif" width="480"/>
 </p>
 
 ---
