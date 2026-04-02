@@ -48,11 +48,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="480"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/ezgif.gif" width="480"/>
-</p>
+## 🔥 Streak + Anime
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=tokyonight&hide_border=true" width="420"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/ezgif.gif" width="420"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
