@@ -97,7 +97,7 @@
 ## 🚀 Featured Projects
 
 * 🔹 WhatsApp Clone (Next.js + Tailwind)
-* 🔹 3D Mobile App UI
+* 🔹 3D Mobile App UI.
 * 🔹 Hand Tracking Visual Effects
 
 ---
