@@ -24,6 +24,9 @@
 <a href="https://instagram.com/the_8ernity" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+<a href="https://twitter.com/the_8ernity">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 <a href="mailto:arpanbiswas647@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
