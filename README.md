@@ -98,7 +98,7 @@
 
 * 🔹 WhatsApp Clone (Next.js + Tailwind)
 * 🔹 3D Mobile App UI.
-* 🔹 Hand Tracking Visual Effects
+* 🔹 Hand Tracking Visual Effects.
 
 ---
 
