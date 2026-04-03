@@ -27,6 +27,9 @@
 <a href="mailto:arpanbiswas647@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=61553645707053" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
+</a>
 </p>
 
 ---
