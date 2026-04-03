@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://instagram.com/the_8ernity" target="_blank">
