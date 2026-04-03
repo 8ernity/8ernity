@@ -33,6 +33,9 @@
 <a href="https://www.facebook.com/profile.php?id=61553645707053" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
 </a>
+<a href="https://auth.geeksforgeeks.org/user/8ernity">
+<img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
+</a>
 </p>
 
 ---
