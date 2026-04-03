@@ -36,6 +36,9 @@
 <a href="https://auth.geeksforgeeks.org/user/8ernity">
 <img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
 </a>
+<a href="https://leetcode.com/8ernity">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48"/>
+</a>
 </p>
 
 ---
