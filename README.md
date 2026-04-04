@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI-ML+Student;Building+Cool+Web+Apps;Always+Learning+New+Things" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
 
@@ -41,7 +41,7 @@
 </a>
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
