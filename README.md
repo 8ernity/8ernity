@@ -76,7 +76,7 @@
 </tr>
 </table>
 
----
+<hr style="height:3px;border:none;background:linear-gradient(to right, red, orange, red);">
 
 ## 🐍 Contribution Snake
 
