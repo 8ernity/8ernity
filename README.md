@@ -66,12 +66,15 @@
 <tr>
 
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8ernity&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa" />
+<img src="https://streak-stats.demolab.com?user=8ernity&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa" />
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/ezgif.gif" width="420"/>
 </td>
+
+</tr>
+</table>
 
 </tr>
 </table>
