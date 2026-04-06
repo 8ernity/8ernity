@@ -21,6 +21,9 @@
 <a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://github.com/8ernity" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 <a href="https://instagram.com/the_8ernity" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
