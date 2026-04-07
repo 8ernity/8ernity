@@ -73,7 +73,7 @@
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/ezgif.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/ezgif.gif" width="420"/>
 </td>
 
 </tr>
