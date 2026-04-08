@@ -6,7 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 About Me
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center">
+  &nbsp;<b>About Me</b>
+</h3>
 
 * 🎓 B.Tech CSE (AI-ML)
 * 💻 Frontend Developer (React + Tailwind)
