@@ -49,7 +49,10 @@
 
 
 
-## 🛠 Tech Stack
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="35" height="35" align="center">
+  &nbsp;<b>Tech Stack</b>
+</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,java,kotlin,python,mongodb,mysql,nodejs,matlab,photoshop,git" />
