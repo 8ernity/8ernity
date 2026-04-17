@@ -123,12 +123,12 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.9017257364064" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="329.9017257364064" y="0" width="256.150290333599" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="586.0520160700054" y="0" width="166.32156275922642" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="752.3735788292319" y="0" width="109.75475350108164" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="862.1283323303135" y="0" width="51.75140287243213" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="913.8797352027456" y="0" width="6.120264797254436" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.4325075964361" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="326.4325075964361" y="0" width="253.45663593758047" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="579.8891435340165" y="0" width="164.57253952721842" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="744.4616830612349" y="0" width="108.60058196425813" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="853.062265025493" y="0" width="60.88183035484369" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="913.9440953803368" y="0" width="6.055904619663182" height="8" fill="#4b0082"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -140,7 +140,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>35.86%</div>
+                                <div>35.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -151,7 +151,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>5.63%</div>
+                                <div>6.62%</div>
                             </small>
                         </div>
                     </section>
@@ -164,7 +164,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>27.84%</div>
+                                <div>27.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -175,7 +175,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>0.67%</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                     </section>
@@ -188,7 +188,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>18.08%</div>
+                                <div>17.89%</div>
                             </small>
                         </div>
                     </section>
@@ -201,7 +201,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>11.93%</div>
+                                <div>11.8%</div>
                             </small>
                         </div>
                     </section>
@@ -1244,7 +1244,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>she-llac/claude-counter</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal browser extension that shows token count, cache timer, and usage bars on claude.ai.</div>
@@ -1265,13 +1265,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        552
+                                        617
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        43
+                                        53
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1365,7 +1365,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        332
+                                        334
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1431,7 +1431,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        955
+                                        957
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
