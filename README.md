@@ -33,6 +33,9 @@
 <a href="https://twitter.com/the_8ernity">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
+<a href="https://portfoliox-tau.vercel.app/" target="_blank">
+<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/AB.png" width="55"/>
+</a>
 <a href="mailto:arpanbiswas647@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
