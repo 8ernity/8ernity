@@ -109,7 +109,11 @@
   <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-## 🚀 Featured Projects
+
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center">
+  &nbsp;<b>Featured projects</b>
+</h3>
 
 * 🔹 WhatsApp Clone (Next.js + Tailwind)
 * 🔹 3D Mobile App UI
