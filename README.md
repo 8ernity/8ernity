@@ -58,7 +58,7 @@
 </h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,react,nodejs,tailwind,kotlin,mongodb,mysql,figma,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,react,nodejs,express,tailwind,kotlin,mongodb,mysql,git" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
