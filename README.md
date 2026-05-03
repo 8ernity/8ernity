@@ -93,11 +93,27 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<a href="https://github.com/8ernity/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/8ernity/github-profile-trophy">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=8ernity&column=8&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-</a>
+<table>
+<tr>
 
+<!-- LEFT: TROPHIES -->
+<td width="50%" align="center">
+
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=8ernity&column=4&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+</td>
+
+<!-- RIGHT: ACTIVITY GRAPH -->
+<td width="50%" align="center">
+<h2>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25">
+  Coding Activity
+</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=8ernity&bg_color=0D1117&color=00ffae&line=ff0303&point=fce621&area=true&area_color=006142&hide_border=true" width="100%" />
+</td>
+
+</tr>
+</table>
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="35" height="35" align="center">
   &nbsp;<b>Contribution Snake</b>
