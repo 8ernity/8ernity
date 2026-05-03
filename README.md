@@ -93,6 +93,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
+<a href="https://github.com/8ernity/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/8ernity/github-profile-trophy">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=8ernity&column=8&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</a>
+
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="35" height="35" align="center">
   &nbsp;<b>Contribution Snake</b>
@@ -101,7 +106,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
