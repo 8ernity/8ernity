@@ -6,10 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center">
-  &nbsp;<b>About Me</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" style="vertical-align:-4px;">
+  About Me
+</h2>
 
 * 🎓 B.Tech CSE (AI-ML)
 * 💻 Frontend Developer (React + Tailwind)
@@ -18,10 +18,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28" align="center">
-  &nbsp;<b>Connect with Me</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" width="28" style="vertical-align:-4px;">
+  Connect with Me
+</h2>
 
 <p align="center">
 <a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
@@ -55,10 +55,10 @@
 
 
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="35" height="35" align="center">
-  &nbsp;<b>Tech Stack</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" style="vertical-align:-4px;">
+  Tech Stack
+</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,react,nodejs,express,tailwind,kotlin,mongodb,mysql,vite" />
@@ -75,10 +75,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="30" height="30" align="center">
-  &nbsp;<b>Streak Stats</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="28" style="vertical-align:-4px;">
+  Streak Stats
+</h2>
 
 <table align="center">
 <tr>
@@ -105,10 +105,10 @@
 <!-- LEFT: TROPHIES -->
 <td width="50%" align="center">
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30" align="center">
-  &nbsp;<b>Github Profile Trophy</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="28" style="vertical-align:-4px;">
+  Github Profile Trophy
+</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=8ernity&column=4&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </td>
 
@@ -123,9 +123,9 @@
 
 </tr>
 </table>
-<h2 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="35" height="35" align="center">
-  &nbsp;<b>Contribution Snake</b>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="28" style="vertical-align:-4px;">
+  Contibution Snake
 </h2>
 
 <p align="center">
@@ -143,21 +143,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center">
-  &nbsp;<b>Featured projects</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" style="vertical-align:-4px;">
+  Featured Projects
+</h2>
 
 * 🔹 WhatsApp Clone (Next.js + Tailwind)
 * 🔹 3D Mobile App UI
 * 🔹 Hand Tracking Visual Effects
 
-
-
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" height="28" align="center">
-  &nbsp;<b>Quote</b>
-</h3>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" style="vertical-align:-4px;">
+  Quote
+</h2>
 
 <p align="center">
 <i>"Code. Create. Innovate."</i>
