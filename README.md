@@ -18,7 +18,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect With Me
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28" align="center">
+  &nbsp;<b>Connect with Me</b>
+</h3>
 
 <p align="center">
 <a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
