@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=8ernity&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&text_color=00ffff" height="180"/>
@@ -154,7 +154,10 @@
 
 
 
-## ✨ Quote
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" height="28" align="center">
+  &nbsp;<b>Quote</b>
+</h3>
 
 <p align="center">
 <i>"Code. Create. Innovate."</i>
