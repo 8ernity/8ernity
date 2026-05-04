@@ -102,7 +102,10 @@
 <!-- LEFT: TROPHIES -->
 <td width="50%" align="center">
 
-<h2>🏆 Github Profile Trophy</h2>
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30" align="center">
+  &nbsp;<b>Github Profile Trophy</b>
+</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=8ernity&column=4&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </td>
 
