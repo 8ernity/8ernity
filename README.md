@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="📊" width="35"> &nbsp;GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=8ernity&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&text_color=00ffff" height="180"/>
@@ -76,7 +76,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="28" style="vertical-align:-4px;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="28" style="vertical-align:-4px;">
   Streak Stats
 </h2>
 
@@ -106,7 +106,7 @@
 <td width="50%" align="center">
 
 <h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="28" style="vertical-align:-4px;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="28" style="vertical-align:-4px;">
   Github Profile Trophy
 </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=8ernity&column=4&theme=discord&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
