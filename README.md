@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arpan Biswas</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" style="vertical-align:-6px;">
+  , I'm Arpan Biswas
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Android+App+Developer;Building+Cool+Web+Apps;Always+Learning+New+Things" />
