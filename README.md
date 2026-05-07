@@ -148,7 +148,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" style="vertical-align:-4px;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="28" style="vertical-align:-4px;">
   Featured Projects
 </h2>
 
