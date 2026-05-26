@@ -94,10 +94,6 @@
 <td align="center">
 <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/ezgif.gif" width="420"/>
 </td>
-
-</tr>
-</table>
-
 </tr>
 </table>
 
@@ -105,7 +101,6 @@
 
 <table>
 <tr>
-
 <!-- LEFT: TROPHIES -->
 <td width="50%" align="center">
 
