@@ -123,12 +123,12 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.97120572427366" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="418.97120572427366" y="0" width="198.2521162982723" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="617.223322022546" y="0" width="81.25495744349105" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="698.4782794660371" y="0" width="76.076926297065" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="774.5552057631021" y="0" width="75.75877627513303" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="850.3139820382352" y="0" width="69.68601796176496" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.42471125078896" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="410.42471125078896" y="0" width="212.97488057187618" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="623.3995918226652" y="0" width="79.5974567960813" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="702.9970486187465" y="0" width="74.52505108159862" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="777.5220997003452" y="0" width="74.21339092667189" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="851.7354906270172" y="0" width="68.26450937298303" height="8" fill="#4b0082"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -140,7 +140,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>45.54%</div>
+                                <div>44.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -151,7 +151,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>8.23%</div>
+                                <div>8.07%</div>
                             </small>
                         </div>
                     </section>
@@ -164,7 +164,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>21.55%</div>
+                                <div>23.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -175,7 +175,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>7.57%</div>
+                                <div>7.42%</div>
                             </small>
                         </div>
                     </section>
@@ -188,7 +188,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>8.83%</div>
+                                <div>8.65%</div>
                             </small>
                         </div>
                     </section>
@@ -201,7 +201,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>8.27%</div>
+                                <div>8.1%</div>
                             </small>
                         </div>
                     </section>
@@ -1254,7 +1254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DietrichGebert/ponytail</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</div>
@@ -1275,13 +1275,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        74k
+                                        74.3k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        3.88k
+                                        3.91k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
