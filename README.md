@@ -23,10 +23,16 @@
       </h2>
       <br/>
       <ul>
-        <li>🎓 B.Tech CSE (AI-ML)</li>
-        <li>💻 Frontend Developer (React + Tailwind)</li>
-        <li>🌱 Currently learning Full Stack Development</li>
-        <li>⚡ Love building modern UI &amp; interactive apps</li>
+        <li>🎓 B.Tech CSE (AI-ML) student</li>
+        <li>💻 Frontend Developer — React, Tailwind, TypeScript</li>
+        <li>📱 Also building Android apps with Kotlin</li>
+        <li>🌱 Currently learning Full Stack &amp; Backend with Node.js</li>
+        <li>🔭 Currently building: <b>an AI-powered portfolio generator</b></li>
+        <li>🤝 Open to collabs, open source contributions &amp; freelance work</li>
+        <li>📍 Based in India &nbsp;🇮🇳&nbsp; · &nbsp;IST (UTC +5:30)</li>
+        <li>🌙 Best ideas hit at 2 AM — classic dev trait</li>
+        <li>🎯 2026 Goal: Ship a SaaS product &amp; contribute to major OSS repos</li>
+        <li>⚡ Fun fact: I think in components — even offline</li>
       </ul>
     </td>
   </tr>
