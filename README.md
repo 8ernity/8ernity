@@ -10,15 +10,27 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" style="vertical-align:-4px;">
-  About Me
-</h2>
-
-* 🎓 B.Tech CSE (AI-ML)
-* 💻 Frontend Developer (React + Tailwind)
-* 🌱 Currently learning Full Stack Development
-* ⚡ Love building modern UI & interactive apps
+<!-- LANYARD + ABOUT ME SECTION -->
+<table border="0" cellpadding="0" cellspacing="16" align="center" width="100%">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="./8ernity-lanyard.svg" width="370" alt="8ernity — Swinging Developer ID Badge" />
+    </td>
+    <td width="62%" valign="top">
+      <h2 style="margin:0;">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" style="vertical-align:-4px;">
+        About Me
+      </h2>
+      <br/>
+      <ul>
+        <li>🎓 B.Tech CSE (AI-ML)</li>
+        <li>💻 Frontend Developer (React + Tailwind)</li>
+        <li>🌱 Currently learning Full Stack Development</li>
+        <li>⚡ Love building modern UI &amp; interactive apps</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -105,8 +117,6 @@
 </h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=8ernity&bg_color=0D1117&color=00ffae&line=ff0303&point=fce621&area=true&area_color=006142&hide_border=true" width="100%" />
 
-</tr>
-</table>
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="28" style="vertical-align:-4px;">
   Contibution Snake
