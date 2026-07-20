@@ -14,7 +14,7 @@
 <table border="0" cellpadding="0" cellspacing="16" align="center" width="100%">
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="./8ernity-lanyard.svg" width="370" alt="8ernity — Swinging Developer ID Badge" />
+      <img src="./8ernity-lanyard.svg?v=2" width="370" alt="8ernity — Swinging Developer ID Badge" />
     </td>
     <td width="62%" valign="top">
       <h2 style="margin:0;">
