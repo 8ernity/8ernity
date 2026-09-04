@@ -75,8 +75,6 @@
 </a>
 </p>
 
-
-
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="28" style="vertical-align:-4px;">
   Tech Stack
@@ -88,12 +86,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="📊" width="35"> &nbsp;GitHub Stats
+<h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=8ernity&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&text_color=00ffff" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=8ernity&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8ernity&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8ernity&theme=radical">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -117,11 +114,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="25">
-  Coding Activity
-</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=8ernity&bg_color=0D1117&color=00ffae&line=ff0303&point=fce621&area=true&area_color=006142&hide_border=true" width="100%" />
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=8ernity&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="8ernity's GitHub Trophies" />
+</p>
 
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="28" style="vertical-align:-4px;">
@@ -129,10 +126,8 @@
 </h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
