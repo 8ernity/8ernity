@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 
+  Hi
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" style="vertical-align:-6px;">
   , I'm Arpan Biswas
 </h1>
@@ -46,33 +46,33 @@
 </h2>
 
 <p align="center">
-<a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/8ernity" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://instagram.com/the_8ernity" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://twitter.com/the_8ernity">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-<a href="https://portfoliox-tau.vercel.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/AB.png" width="55"/>
-</a>
-<a href="mailto:arpanbiswas647@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61553645707053" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/8ernity">
-<img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
-</a>
-<a href="https://leetcode.com/8ernity">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48"/>
-</a>
+  <a href="https://in.linkedin.com/in/arpan-biswas-9a327b322" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/8ernity" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/the_8ernity" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/the_8ernity">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+  <a href="https://portfoliox-tau.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/AB.png" width="55"/>
+  </a>
+  <a href="mailto:arpanbiswas647@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553645707053" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/8ernity">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
+  </a>
+  <a href="https://leetcode.com/8ernity">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48"/>
+  </a>
 </p>
 
 <h2 style="margin:0;">
@@ -81,53 +81,58 @@
 </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,react,nodejs,express,tailwind,kotlin,mongodb,mysql,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,react,nodejs,express,tailwind,kotlin,mongodb,mysql,vite" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 style="margin:0;">
+  📊 GitHub Stats:
+</h2>
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8ernity&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8ernity&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8ernity&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8ernity&theme=radical">
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="28" style="vertical-align:-4px;">
-  Streak Stats
-</h2>
+<h2 align="center">🔥 Streak Stats</h2>
 
 <table align="center">
 <tr>
-
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=8ernity&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa" />
+<img src="https://streak-stats.demolab.com?user=8ernity&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa">
 </td>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/ezgif.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/8ernity/8ernity/main/assets/gifs/ezgif.gif" width="420">
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 style="margin:0;">
+  🏆 GitHub Trophies
+</h2>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=8ernity&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="8ernity's GitHub Trophies" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=8ernity&theme=radical&title=-Stars,-Issues,-Reviews&column=6&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+    alt="8ernity's GitHub Trophies"
+  />
 </p>
 
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="28" style="vertical-align:-4px;">
-  Contibution Snake
+  Contribution Snake
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8ernity/8ernity/output/github-contribution-grid-snake.svg"
-       alt="GitHub contribution graph" />
+  <img
+    src="https://raw.githubusercontent.com/8ernity/8ernity/main/game.gif"
+    alt="8ernity contribution graph"
+  />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -143,9 +148,11 @@
   Featured Projects
 </h2>
 
-* 🔹 WhatsApp Clone (Next.js + Tailwind)
-* 🔹 3D Mobile App UI
-* 🔹 Hand Tracking Visual Effects
+<ul>
+  <li>🔹 WhatsApp Clone (Next.js + Tailwind)</li>
+  <li>🔹 3D Mobile App UI</li>
+  <li>🔹 Hand Tracking Visual Effects</li>
+</ul>
 
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" style="vertical-align:-4px;">
@@ -153,5 +160,5 @@
 </h2>
 
 <p align="center">
-<i>"Code. Create. Innovate."</i>
+  <i>"Code. Create. Innovate."</i>
 </p>
