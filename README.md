@@ -18,8 +18,7 @@
     </td>
     <td width="62%" valign="top">
       <h2 style="margin:0;">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" style="vertical-align:-4px;">
-        About Me
+         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
       </h2>
       <br/>
       <ul>
@@ -86,9 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<h2 style="margin:0;">
-  📊 GitHub Stats:
-</h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8ernity&theme=radical">
