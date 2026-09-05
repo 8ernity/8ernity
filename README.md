@@ -97,7 +97,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🔥 Streak Stats</h2>
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="28" style="vertical-align:-4px;">
+  Streak Stats
+</h2>
 
 <table align="center">
 <tr>
@@ -113,7 +116,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <h2 style="margin:0;">
-  🏆 GitHub Trophies
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="28" style="vertical-align:-4px;">
+ Github Trophies
 </h2>
 
 <p align="center">
@@ -124,8 +128,8 @@
 </p>
 
 <h2 style="margin:0;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="28" style="vertical-align:-4px;">
-  Contribution Snake
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="28" style="vertical-align:-4px;">
+  Contribution Space Shooter
 </h2>
 
 <p align="center">
