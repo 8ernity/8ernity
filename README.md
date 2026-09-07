@@ -150,9 +150,15 @@
 </h2>
 
 <p align="center">
-  <img src="./assets/gifs/VideoFetch.svg" width="49%" />
-  <img src="./assets/gifs/YourSecondCard.svg" width="49%" />
+  <a href="https://github.com/8ernity/VideoFetch">
+    <img src="./assets/gifs/VideoFetch.svg" width="49%" />
+  </a>
+  
+  <a href="https://github.com/8ernity/YourSecondRepo">
+    <img src="./assets/gifs/YourSecondCard.svg" width="49%" />
+  </a>
 </p>
+
 
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" style="vertical-align:-4px;">
