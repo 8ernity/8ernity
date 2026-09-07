@@ -149,11 +149,10 @@
   Featured Projects
 </h2>
 
-<ul>
-  <li>🔹 WhatsApp Clone (Next.js + Tailwind)</li>
-  <li>🔹 3D Mobile App UI</li>
-  <li>🔹 Hand Tracking Visual Effects</li>
-</ul>
+<p align="center">
+  <img src="./assets/gifs/VideoFetch.svg" width="49%" />
+  <img src="./assets/gifs/YourSecondCard.svg" width="49%" />
+</p>
 
 <h2 style="margin:0;">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" style="vertical-align:-4px;">
