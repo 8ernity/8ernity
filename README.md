@@ -154,8 +154,8 @@
     <img src="./assets/gifs/VideoFetch.svg" width="49%" />
   </a>
   
-  <a href="https://github.com/8ernity/YourSecondRepo">
-    <img src="./assets/gifs/YourSecondCard.svg" width="49%" />
+  <a href="https://github.com/8ernity/ShadowChat-AI">
+    <img src="./assets/gifs/ShadowChat-AI.svg" width="49%" />
   </a>
 </p>
 
